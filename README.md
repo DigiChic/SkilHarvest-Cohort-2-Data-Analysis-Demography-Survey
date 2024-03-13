@@ -23,7 +23,7 @@ Google forms - For collecting data [Try it out](https://www.google.com/forms/abo
 
 Google Sheets - For saving responses [Try it out](https://docs.google.com/spreadsheets/u/0/)
 
-Power BI. [You can find it here](https://powerbi.microsoft.com/en-us/downloads/)
+Power BI [You can find it here](https://powerbi.microsoft.com/en-us/downloads/)
   
 # Data Cleaning and Preparation
 
