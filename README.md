@@ -23,7 +23,7 @@ It examines the gender, marital status, age, occupation and  their country of re
 
 # Results and Findings
 - Here is pictorial view of the results
-
+![demographics](demographics.png)
 
 Insights from the SkilHarvest Interns Demographics
 - The number of students who responded to the survey are 44.
