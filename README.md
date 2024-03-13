@@ -19,6 +19,8 @@ The data used was provided in real time by Mr. TeeDee where a Google form was fi
   
 # Tools for analysis
 
+Google forms - For collecting data [Try it out](https://www.google.com/forms/about/)
+Google Sheets - For saving responses [Try it out](https://docs.google.com/spreadsheets/u/0/)
 Power BI. [You can find it here](https://powerbi.microsoft.com/en-us/downloads/)
   
 # Data Cleaning and Preparation
