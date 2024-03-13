@@ -13,16 +13,21 @@ This is a study of the demographics of the Data Analysis students at the ongoing
 It examines the gender, marital status, age, occupation and  their country of residence
 
 # Data Sources
-- The data used was provided in real time by Mr. TeeDee where a Google form was filled by the students present in class
+
+The data used was provided in real time by Mr. TeeDee where a Google form was filled by the students present in class
   
 # Tools for analysis
-- Power BI. [You can find it here](https://powerbi.microsoft.com/en-us/downloads/)
+
+Power BI. [You can find it here](https://powerbi.microsoft.com/en-us/downloads/)
   
 # Data Cleaning and Preparation
-- The data was cleaned by removing duplicates from students who filled the form twice and blanks removed
+
+The data was cleaned by removing duplicates from students who filled the form twice and blanks removed
 
 # Results and Findings
-- Here is pictorial view of the results
+
+Here is pictorial view of the results
+
 ![demographics](demographics.png)
 
 Insights from the SkilHarvest Interns Demographics
@@ -33,7 +38,8 @@ Insights from the SkilHarvest Interns Demographics
 - The interns have various occupations such as data analyst, administrative assistant, data entry operator, electronic engineer while a few of them are students.
 
 # Recommendations
-- Here are some recommendations from the analysis
+
+Here are some recommendations from the analysis
 
 1. Diversity and Inclusion Workshops: Given the mix of male and female interns, SkilHarvest can consider organizing workshops or sessions on diversity and inclusion.
 These can help foster a supportive and respectful environment for everyone especially women.
